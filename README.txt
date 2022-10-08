@@ -1,0 +1,1 @@
+This is simple library that converts country ISO to country name and also converts country name to country ISO.

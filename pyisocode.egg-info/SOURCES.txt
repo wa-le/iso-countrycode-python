@@ -1,0 +1,10 @@
+CHANGELOG.txt
+LICENCE.txt
+MANIFEST.in
+README.txt
+setup.py
+pyisocode/__init__.py
+pyisocode.egg-info/PKG-INFO
+pyisocode.egg-info/SOURCES.txt
+pyisocode.egg-info/dependency_links.txt
+pyisocode.egg-info/top_level.txt
